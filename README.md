@@ -1,1 +1,2 @@
 # Xamarin-Ratinbar
+ONLY XAML
